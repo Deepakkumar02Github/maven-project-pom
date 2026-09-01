@@ -1,6 +1,6 @@
 def call()
 {
-bat "date"
+bat 'date /t'
 bat 'ipconfig'
   
 }
